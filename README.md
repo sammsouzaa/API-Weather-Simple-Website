@@ -12,8 +12,11 @@ The website is built using HTML and JavaScript. The JavaScript code makes an asy
 
 ## How to View
 To view the website, simply [click here](https://sammsouzaa.github.io/API-Weather-Simple-Website/). Alternatively, you can clone the repository and open the `index.html` file in your preferred web browser.
+
+<!--
 ## Screenshots
-Include screenshots of the website, showcasing the weather information display.
+Include screenshots of the app interface, demonstrating the gameplay and user interactions.
+-->
 
 ## Credits
 - Author: Samuel Moreira de Souza
