@@ -1,4 +1,4 @@
-# Simple Weather Website
+# API Weather Simple Website
 
 Welcome to the Simple Weather Website repository! This project, developed as part of the "Programação para Internet" (Web Programming) course, is a web application that allows users to check the current weather of a city. The website is implemented using HTML and JavaScript, utilizing a weather API for real-time data.
 
